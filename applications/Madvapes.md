@@ -10,17 +10,18 @@
 ## Overview
 
 ### Project Description
-MadvApes is one of the oldest projects on Vechain, we aim to become the #1 NFT Project on vechain providing our members new services and web3 experiences. 
+MadⓥApes is one of the oldest projects on Vechain, we aim to become the #1 NFT Project on vechain providing our members new services and web3 experiences. 
 In the past months, we have been working with web2 companies helping them to bridge to web3 using the Vechain Blockchain. 
 
-Ape-world aims to be a valuable-transaction-driven ecosystem encompassing a fully sustainable economy that rewards MadⓥApes holders by creating utility and value for different holder profiles.
-    - Passive income
-    - Gaming
-    - VNFT Trading
-    - Merch/Marketing
+Ape-world aims to be a valuable-transaction-driven ecosystem encompassing a fully sustainable economy that rewards MadⓥApes and Vechain holders by creating utility and value for different holder profiles.
+
+ * Passive income
+ * Gaming
+ * NFT Trading
+ * Merch/Marketing
 
 The world is divided into different locations.
-Each location has one or more services available to MadⓥApes holders.
+Each location has one or more services available to MadⓥApes and Vechain holders.
 
 ### Why VeChain? 
     - Vechain Foundation has showed us their commitment to become a top Blockchain and we believe it  
@@ -33,20 +34,44 @@ Each location has one or more services available to MadⓥApes holders.
 
 ### how we will integrate tools and features
     - Sync2/VeWorld and connex2 are gonna be used as interface with the chain
-    - We are using MTT in our contract  
+    - We are using MTT in our contracts  
+    - VIP180 & VIP181
 
 ### Project Details
 
 #### Mockups/designs of any UI components
-* Mobility Layer (Apeworld Location)
-![Mobility Layer] 
+* We have the ApeWorld Landing Page already designed, but we're testing all the Apeworld's Smartcontracts on another server. They've been tested and working as expected in the Mainnet.
+
+* ApeWorld Landing Page (Apeworld Locations)
+![ApeWorld Landing Page](https://github.com/MVAnero/MVA/blob/main/MVA-Grant/Images/Apeworld-home.png) 
+* Mobility Layer (Test Pages)
+
+![Mobility Lay 1](https://github.com/MVAnero/MVA/blob/main/MVA-Grant/Images/MobilityLayer-1-TesterPages.png)
+* Trade Shop (dAPP where you can trade/swap NFTs in a safe way) 
+
+![Trade Shop](https://github.com/MVAnero/MVA/blob/main/MVA-Grant/Images/Trade-Shop.png)
+* PawnShop (dApp where you can get Liquidity (from another user) without selling your NFT. 
+
+![PS 1](https://github.com/MVAnero/MVA/blob/main/MVA-Grant/Images/PawnShop1.png)
+![PS 2](https://github.com/MVAnero/MVA/blob/main/MVA-Grant/Images/PawnShop2.png)
+* Raffle Shop- (dApp where you can Raffle any NFT by your own) 
+
+![RS 1](https://github.com/MVAnero/MVA/blob/main/MVA-Grant/Images/RaffleShop1.png)
+![RS 1](https://github.com/MVAnero/MVA/blob/main/MVA-Grant/Images/RaffleShop2.png)
+* ApeWorld Economy Inflow (A self sustanaible ecosystem)
+
+![Economy 1](https://github.com/MVAnero/MVA/blob/main/MVA-Grant/Images/Economy%20Flow.png)
+
 - API specifications of the core functionality
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
 - PoC/MVP or other relevant prior work or research on the topic
 
 ### Ecosystem Fit
-Are there any other projects similar to yours? If so, how is your project different?
+We are a team who is only focus on our goals, that's why we can't compare ourselves to any other NFT project. 
+Since the beggining we have shown a full committment to our community, we keep building, no matter what, not even market conditions. 
+We are a passionate team who works day and night to bring more members to Vechain, collaborating with other blockchains and interacting with non-crypto people.
+. 
 
 ## Team 
 
@@ -62,10 +87,14 @@ Are there any other projects similar to yours? If so, how is your project differ
 - Connor Boundy 
 
 
-
 ### Team Website
 
-- https://mvanft.io 
+|    Platform    |                ID                   |
+| -------------- | ----------------------------------- |
+| Web            | https://mvanft.io                |
+| Twitter        | https://twitter.com/madvapesnft  |
+| Discord        | https://discord.gg/madvapesnft   |
+| Team email     | madvapesnft@gmail.com            |
 
 ### Team's experience
 
@@ -76,33 +105,17 @@ Please describe the team's relevant experience. If the project involves developm
 - https://github.com/<your_repo_1>
 - https://github.com/<your_repo_2>
 
-### Team LinkedIn Profiles
-
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
 
 ## Development Roadmap 
-
-This section should break out the development roadmap into a number of milestones. Since the milestones will appear in the grant contract, it helps to describe the functionality we should expect, plus how we can check that such functionality exists in the product. Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered as expected.
-
-Below we provide an <b>example roadmap</b>. For each milestone:
-
-- Please indicate the milestone duration, workload in terms of full-time equivalent (FTE) and cost. 
-- Please be sure to include a specification of the software. The level of details must be high enough so that we are able to verify that the software meets the specification.
-- Please note that we require documentation (e.g. tutorials, API specifications, architecture details) in each milestone. This ensures that the code can be widely used by the community.
-- Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
-- Please commit to providing dockerfiles for the delivery of your project.
-
-
-### Example Roadmap for a dApp Application
-
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
-| Full-time equivalent (FTE) | 2 | 1 | 3 |
-| Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
+**TOTAL FUNDS: 30000 USD**
+
+| Name | Milestone 1 | Milestone 2 | Marketing | Total |
+| - | - | - | - | - |
+| Estimated Duration | 40d | 30 d | 30d | 100 d |
+| Status | Done | In Progress | In Progress | In Progess |
+| Cost | $ 12,500 | $ 12,500 | $ 5,000| $30,000 |
 
 #### Milestone 1 — Smart Contract & Backend
 
@@ -122,9 +135,13 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 
 #### Community engagement
 
-As part of the Program, we require that you produce and publish at least one article/tutorial (e.g., on Medium). It should explain your work done as part of the grant. 
+We released our first Medium article a few days ago, explaining how everything has been built, one of our strengts as a team is the communication that we have with the community. 
+We have dedicated channels on discord to explain the process for each dApp. 
 
-We recommended you provide social medium, like Twitter, Telegram group, or Reddit, on your website. When the developers/users need assistance, they could get in touch with you and get help.
+During these past months we have been spending in Marketing and community engagement such as: 
+* Times Square Billboard (New York) 
+* Partnering with Ken Shamrock (UFC Hall of Fame Legend) 
+* Sponsoring Elite Fight Night (One of the biggest amateur figthing leagues in the USA)
 
 ## Future Plans
 
@@ -132,9 +149,6 @@ Please include the team's long-term project plans, operation plans and intention
 
 ## Additional Information 
 
-Any additional information that you think is relevant to this application that hasn't already been included.
-
-Possible additional information to include:
 - What work has been done so far?
 - Are there any teams who have already contributed (financially) to the project?
 - Have you applied for other grants so far?
