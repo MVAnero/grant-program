@@ -136,6 +136,9 @@ Please describe the team's relevant experience. If the project involves developm
 #### Community engagement
 
 We released our first Medium article a few days ago, explaining how everything has been built, one of our strengts as a team is the communication that we have with the community. 
+
+- https://medium.com/@mvastudionft/apeworld-6b923a8a1a59 
+
 We have dedicated channels on discord to explain the process for each dApp. 
 
 During these past months we have been spending in Marketing and community engagement such as: 
