@@ -100,6 +100,8 @@ We are a passionate team who works day and night to bring more members to Vechai
 
 Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
 
+Note: There are roughly 30 projects in "bigspt" repo, which can be given access upon request. Those repos include python code for discord several bots (phyrexiandoom's work, pioneering Vechain bots in both telegram and discord channels) and the solidity code for the dApps described above.
+
 ### Team Code Repos
 
 - https://github.com/bigspt
